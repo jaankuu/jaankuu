@@ -22,6 +22,7 @@
 <img height="32" width="32" title="postgresql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" /> <img height="32" width="32" title="github" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img height="32" widht="32" title="Sequelize" src="https://avatars1.githubusercontent.com/u/3591786?s=200&amp;v=4" />
 
-
 ### Projects ###
+
+🥏 A live scorekeeping and event management app for disc golf, [see here for more](https://github.com/jaankuu/tournament-live-scoring-frontend)
 
