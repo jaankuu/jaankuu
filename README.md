@@ -6,8 +6,6 @@
 
 👨‍🔬 I have a background in sciences, where a beginning in psychology led me towards programming across years. Additionally I have experience in Python, statistics, research (and research design).
 
-<img height="13" width="13" title="linkedin" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/linkedin_logo_icon_147268.png" /> You can find me on [Linkedin](https://www.linkedin.com/in/jaan-kuusaru-0803971ba/) here.
-
 
 
 ### Languages | Tools ### 
