@@ -2,7 +2,7 @@
 ## Hey there, thanks for stopping by! ##
 
 
-🥏 I am Jaan, originally from Estonia 🇪🇪 , living in The Netherlands 🇳🇱 . I am currently working as a junior full stack developer (heavily frontend) at a logistics software startup. Mainly using **Javascript**, **Typescript** & **Vue**.
+🥏 I am Jaan, originally from Estonia 🇪🇪 , living in The Netherlands 🇳🇱 . Developing software using **Javascript**, **Typescript**, **Vue**, **Pinia**, **Jest**, **Vitest**.
 
 👨‍🔬 I have a background in sciences, where a beginning in psychology led me towards programming across years. Additionally I have experience in Python, statistics, research (and research design).
 
