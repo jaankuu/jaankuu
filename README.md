@@ -1,13 +1,3 @@
-
-## Hey there, thanks for stopping by! ##
-
-
-🥏 I am Jaan, originally from Estonia 🇪🇪 , living in The Netherlands 🇳🇱 . Developing software using **Javascript**, **Typescript**, **Vue**, **Pinia**, **Jest**, **Vitest**.
-
-👨‍🔬 I have a background in sciences, where a beginning in psychology led me towards programming across years. Additionally I have experience in Python, statistics, research (and research design).
-
-
-
 ### Languages | Tools ### 
 
 <img height="32" width="32" title="visual studio code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> <img height="32" width="32" title="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
